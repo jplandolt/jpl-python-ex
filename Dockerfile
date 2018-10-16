@@ -1,5 +1,5 @@
 # docker build command is very vanilla:
-# 	docker build --no-cache=true -t APPNAME[-ENV] .
+# docker build --no-cache=true -t APPNAME[-ENV] .
 
 FROM centos/python-36-centos7
 
