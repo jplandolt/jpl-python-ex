@@ -1,4 +1,3 @@
-#!/opt/app-root/bin/python3
 # Simple python thing
 
 import os
