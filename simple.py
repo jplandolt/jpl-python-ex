@@ -1,7 +1,6 @@
-#!/usr/bin/python3
+#!python3
 #
 # Simple python thing
-
 
 import os
 import io
