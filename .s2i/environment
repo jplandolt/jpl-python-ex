@@ -1,3 +1,8 @@
+ENABLE_PIPENV=true
+UPGRADE_PIP_TO_LATEST=1
+DISABLE_SETUP_PY_PROCESSING=true
+
+APP_HOME=project
 APP_SCRIPT=simple.py
 #APP_MODULE=wsgi:app
 #APP_CONFIG=gunicorn.conf
