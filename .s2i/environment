@@ -1,0 +1,4 @@
+APP_SCRIPT=simple.py
+#APP_MODULE=wsgi:app
+#APP_CONFIG=gunicorn.conf
+
