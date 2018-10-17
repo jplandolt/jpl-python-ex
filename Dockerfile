@@ -8,8 +8,7 @@ ENV TERM linux
 ENV DEBIAN_FRONTEND noninteractive
 
 # Stage the app code
-COPY simple.py .
+COPY project/simple.py .
 
 # exec command for the image when it cranks up
 CMD ["python3", "simple.py"]
-
